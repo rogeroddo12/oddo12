@@ -1,2 +1,2 @@
-# oddo12
-oddo12
+# odooo12
+ARCHIVO README PRUEBAS ODOO12
